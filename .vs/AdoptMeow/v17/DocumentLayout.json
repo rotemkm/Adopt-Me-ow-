@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|c:\\users\\kimel\\source\\repos\\adoptmeow\\adoptmeow\\post.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\adoptmeow\\post.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:adoptmeow\\post.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\adoptmeow\\adopt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:adoptmeow\\adopt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\login-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\login-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|c:\\users\\kimel\\source\\repos\\adoptmeow\\adoptmeow\\adopt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:adoptmeow\\adopt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\adoptmeow\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:adoptmeow\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\adopt.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\MasterPage.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\MasterPage.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\adoptmeow\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -35,28 +59,8 @@
       "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\adopt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\adoptmeow\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:adoptmeow\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginScript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\loginScript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\imageload.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\about.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\about.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|solutionrelative:AdoptMeow\\adopt.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBF78B7A-FF9B-4123-B012-4988A282046A}|AdoptMeow\\AdoptMeow.csproj|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\MasterPage.Master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,8 +142,8 @@
               "Title": "post.aspx",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\post.aspx",
               "RelativeDocumentMoniker": "AdoptMeow\\post.aspx",
-              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\post.aspx",
-              "RelativeToolTip": "AdoptMeow\\post.aspx",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\post.aspx*",
+              "RelativeToolTip": "AdoptMeow\\post.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-01-21T19:56:16.79Z",
@@ -152,114 +152,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "admin.aspx",
-              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\admin.aspx",
-              "RelativeDocumentMoniker": "AdoptMeow\\admin.aspx",
-              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\admin.aspx",
-              "RelativeToolTip": "AdoptMeow\\admin.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-21T19:25:47.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "adopt.aspx",
-              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx",
-              "RelativeDocumentMoniker": "AdoptMeow\\adopt.aspx",
-              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx",
-              "RelativeToolTip": "AdoptMeow\\adopt.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-06T19:08:02.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\style.css",
-              "RelativeDocumentMoniker": "AdoptMeow\\style.css",
-              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\style.css",
-              "RelativeToolTip": "AdoptMeow\\style.css",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-06T18:45:45.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "home.aspx",
-              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\home.aspx",
-              "RelativeDocumentMoniker": "AdoptMeow\\home.aspx",
-              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\home.aspx",
-              "RelativeToolTip": "AdoptMeow\\home.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-06T18:39:44.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "about.aspx",
-              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\about.aspx",
-              "RelativeDocumentMoniker": "AdoptMeow\\about.aspx",
-              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\about.aspx",
-              "RelativeToolTip": "AdoptMeow\\about.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-06T19:33:48.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "MasterPage.Master",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\MasterPage.Master",
               "RelativeDocumentMoniker": "AdoptMeow\\MasterPage.Master",
               "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\MasterPage.Master",
               "RelativeToolTip": "AdoptMeow\\MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-11-06T18:40:56.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "loginpage.aspx",
-              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx",
-              "RelativeDocumentMoniker": "AdoptMeow\\loginpage.aspx",
-              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx",
-              "RelativeToolTip": "AdoptMeow\\loginpage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-06T19:38:06.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "login-style.css",
-              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\login-style.css",
-              "RelativeDocumentMoniker": "AdoptMeow\\login-style.css",
-              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\login-style.css",
-              "RelativeToolTip": "AdoptMeow\\login-style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-06T19:40:11.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "adopt.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx.cs",
-              "RelativeDocumentMoniker": "AdoptMeow\\adopt.aspx.cs",
-              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx.cs",
-              "RelativeToolTip": "AdoptMeow\\adopt.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T20:21:15.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "loginpage.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx.cs",
               "RelativeDocumentMoniker": "AdoptMeow\\loginpage.aspx.cs",
@@ -271,19 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "loginScript.js",
-              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginScript.js",
-              "RelativeDocumentMoniker": "AdoptMeow\\loginScript.js",
-              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginScript.js",
-              "RelativeToolTip": "AdoptMeow\\loginScript.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-06T19:43:37.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "home.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\home.aspx.cs",
               "RelativeDocumentMoniker": "AdoptMeow\\home.aspx.cs",
@@ -295,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "about.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\about.aspx.cs",
               "RelativeDocumentMoniker": "AdoptMeow\\about.aspx.cs",
@@ -307,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
               "Title": "adopt.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx.designer.cs",
               "RelativeDocumentMoniker": "AdoptMeow\\adopt.aspx.designer.cs",
@@ -319,7 +212,120 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adopt.aspx",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx",
+              "RelativeDocumentMoniker": "AdoptMeow\\adopt.aspx",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx",
+              "RelativeToolTip": "AdoptMeow\\adopt.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T19:08:02.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "adopt.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx.cs",
+              "RelativeDocumentMoniker": "AdoptMeow\\adopt.aspx.cs",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx.cs",
+              "RelativeToolTip": "AdoptMeow\\adopt.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:21:15.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginpage.aspx",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx",
+              "RelativeDocumentMoniker": "AdoptMeow\\loginpage.aspx",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx",
+              "RelativeToolTip": "AdoptMeow\\loginpage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T19:38:06.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login-style.css",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\login-style.css",
+              "RelativeDocumentMoniker": "AdoptMeow\\login-style.css",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\login-style.css",
+              "RelativeToolTip": "AdoptMeow\\login-style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T19:40:11.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "about.aspx",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\about.aspx",
+              "RelativeDocumentMoniker": "AdoptMeow\\about.aspx",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\about.aspx",
+              "RelativeToolTip": "AdoptMeow\\about.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T19:33:48.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\home.aspx",
+              "RelativeDocumentMoniker": "AdoptMeow\\home.aspx",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\home.aspx",
+              "RelativeToolTip": "AdoptMeow\\home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T18:39:44.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin.aspx",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\admin.aspx",
+              "RelativeDocumentMoniker": "AdoptMeow\\admin.aspx",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\admin.aspx",
+              "RelativeToolTip": "AdoptMeow\\admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-21T19:25:47.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\style.css",
+              "RelativeDocumentMoniker": "AdoptMeow\\style.css",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\style.css",
+              "RelativeToolTip": "AdoptMeow\\style.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T18:45:45.12Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "loginScript.js",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginScript.js",
+              "RelativeDocumentMoniker": "AdoptMeow\\loginScript.js",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginScript.js",
+              "RelativeToolTip": "AdoptMeow\\loginScript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-06T19:43:37.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "imageload.js",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\imageload.js",
               "RelativeDocumentMoniker": "AdoptMeow\\imageload.js",
@@ -331,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "about.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\about.aspx.designer.cs",
               "RelativeDocumentMoniker": "AdoptMeow\\about.aspx.designer.cs",
@@ -389,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AdoptMeow.csproj.user",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\AdoptMeow.csproj.user",
               "RelativeDocumentMoniker": "AdoptMeow\\AdoptMeow.csproj.user",

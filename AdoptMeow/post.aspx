@@ -3,6 +3,11 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <style>
+
+        h2{
+            padding: 0 0 70px 0;
+        }
+
         body {
             background-color: #282828;
             margin: 0;
@@ -63,15 +68,16 @@
 
         .btn {
             background-color: transparent;
-            border: 2px;
+            width: 515px;
+            border: 2px solid;
             color: white;
             padding: 12px 20px;
             font-size: 16px;
-            border: none;
             border-radius: 5px;
             cursor: pointer;
-            width: 100%;
             margin: 60px 0 0 0;
+            backdrop-filter: blur(20px);
+            box-shadow: 0 0 30px rgba(0,0,0, rgba(255,255,255,0.5));
         }
 
         .btn:hover {
