@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\MasterPage.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MasterPage.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\cats.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cats.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:adopt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\post.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:post.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
@@ -39,6 +59,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "loginpage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx.cs",
+              "RelativeDocumentMoniker": "loginpage.aspx.cs",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx.cs",
+              "RelativeToolTip": "loginpage.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:44:42.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\MasterPage.Master",
+              "RelativeDocumentMoniker": "MasterPage.Master",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\MasterPage.Master",
+              "RelativeToolTip": "MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-07T13:44:38.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loginpage.aspx",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx",
+              "RelativeDocumentMoniker": "loginpage.aspx",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\loginpage.aspx",
+              "RelativeToolTip": "loginpage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-07T13:43:41.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cats.jpg",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\cats.jpg",
+              "RelativeDocumentMoniker": "cats.jpg",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\cats.jpg",
+              "RelativeToolTip": "cats.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-07T13:43:28.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adopt.aspx",
+              "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx",
+              "RelativeDocumentMoniker": "adopt.aspx",
+              "ToolTip": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\adopt.aspx",
+              "RelativeToolTip": "adopt.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-07T13:43:22.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "post.aspx",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\post.aspx",
               "RelativeDocumentMoniker": "post.aspx",
@@ -46,12 +126,11 @@
               "RelativeToolTip": "post.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-21T20:41:51.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T20:41:51.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "post.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\post.aspx.designer.cs",
               "RelativeDocumentMoniker": "post.aspx.designer.cs",
@@ -59,12 +138,11 @@
               "RelativeToolTip": "post.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T20:41:50.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T20:41:50.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "post.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\post.aspx.cs",
               "RelativeDocumentMoniker": "post.aspx.cs",
@@ -72,12 +150,11 @@
               "RelativeToolTip": "post.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T20:41:49.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T20:41:49.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "admin.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\kimel\\source\\repos\\AdoptMeow\\AdoptMeow\\admin.aspx.designer.cs",
               "RelativeDocumentMoniker": "admin.aspx.designer.cs",
@@ -85,8 +162,7 @@
               "RelativeToolTip": "admin.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T20:41:44.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T20:41:44.027Z"
             }
           ]
         }

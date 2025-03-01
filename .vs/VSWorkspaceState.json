@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AdoptMeow"
+    "\\AdoptMeow\\App_Data",
+    "\\AdoptMeow\\Properties"
   ],
-  "SelectedNode": "\\AdoptMeow.sln",
   "PreviewInSolutionExplorer": false
 }
