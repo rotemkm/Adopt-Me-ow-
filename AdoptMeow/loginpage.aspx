@@ -79,7 +79,8 @@
                     // Check if all characters are letters only
                     for (let i = 0; i < username.length; i++) {
                         const charCode = username.charCodeAt(i);
-                        if (!((charCode >= 65 && charCode <= 90) || (charCode >= 97 && charCode <= 122) || (charCode >= 1488 && charCode <= 1514))) {
+                        if (!((charCode >= 65 && charCode <= 90) || (charCode >= 97 && charCode <= 122)
+                            || (charCode >= 1488 && charCode <= 1514))) {
                             window.alert("Only letters are allowed in the username");
                             return false;
                         }
@@ -134,8 +135,6 @@
             });
 
         </script>
-
-
         <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
         <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
     </main>

@@ -58,7 +58,7 @@
         .caption {
             width: 102%; /* Align caption width with the image */
             font-size: 17px;
-            line-height: 17px * 1.3;
+            line-height: 17px 1.3;
             color: #787675;
             text-align: center;
             padding: 10px 10px 10px 20px; /* Padding ensures even spacing inside the caption */

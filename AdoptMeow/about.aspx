@@ -16,20 +16,29 @@
             box-shadow: 0 0 30px rgba(0,0,0, rgba(255,255,255,0.5));
         }
 
+        a{
+            list-style: none;
+            display: inline-block;
+            margin: 0 20px;
+            text-decoration: none;
+            color: white;
+            text-align:center;
+        }
+
         p {
             font-size: 20px;
         }
 
         table {
-            width: 80%;
-            margin: 30px auto;
+            width: 50%;
+            margin: 20px auto;
             border-collapse: collapse;
             color: white;
             text-align: center;
         }
 
         th, td {
-            padding: 15px;
+            padding: 10px;
             border: 2px solid rgba(255, 255, 255, 0.5);
         }
 
@@ -37,7 +46,6 @@
             background-color: rgba(255, 255, 255, 0.3);
         }
     </style>
-
     <div class="textbox">
         <p> 
             Hi! My name is Rotem, and I’m 17 years old. I’m a huge animal lover, especially when it comes to cats. 🐾
@@ -47,33 +55,29 @@
             I’m excited to share my love and provide a warm, safe, and caring environment for a furry friend. 😺 Let’s make adoption the first option!
         </p>
     </div>
-
+    
     <table>
         <tr>
             <th>Breed</th>
             <th>Personality</th>
             <th>Fun Fact</th>
-        </tr>
-        <tr>
-            <td>Maine Coon</td>
-            <td>Gentle and friendly</td>
-            <td>One of the largest domestic cat breeds</td>
-        </tr>
-        <tr>
-            <td>Sphynx</td>
-            <td>Affectionate and playful</td>
-            <td>Despite being hairless, they need regular baths</td>
+            <th>My Favorite</th>
         </tr>
         <tr>
             <td>Scottish Fold</td>
             <td>Sweet and calm</td>
             <td>Known for their unique folded ears</td>
+            <td><input type="radio" name="adopt" value="Scottish Fold"></td>
         </tr>
         <tr>
-            <td>Bengal</td>
-            <td>Active and intelligent</td>
-            <td>Has a stunning leopard-like coat</td>
+            <td>Siamese</td>
+            <td>Social and vocal</td>
+            <td>They are known for their striking blue eyes</td>
+            <td><input type="radio" name="adopt" value="Siamese"></td>
         </tr>
     </table>
-
+    
+    <div style="text-align: center; margin-top: 20px;">
+        <label><input type="checkbox" name="agree"> Meow</label>
+    </div>
 </asp:Content>

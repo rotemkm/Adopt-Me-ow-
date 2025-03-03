@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AdoptMeow\\App_Data",
-    "\\AdoptMeow\\Properties"
+    "\\AdoptMeow",
+    "\\AdoptMeow\\cats"
   ],
+  "SelectedNode": "\\AdoptMeow\\about.aspx",
   "PreviewInSolutionExplorer": false
 }

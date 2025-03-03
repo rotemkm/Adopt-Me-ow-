@@ -15,7 +15,7 @@ function load(){
         // Add more images and captions as needed
     ];
 
-    const repeatCount = 6; // Number of times each image should appear
+    const repeatCount = 16; // Number of times each image should appear
 
     // Loop to repeat images
     for (let i = 0; i < repeatCount; i++) {

@@ -71,12 +71,12 @@
     <Content Include="App_Data\Database1_log.ldf">
       <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
-    <Content Include="cats\cat1.jpg" />
-    <Content Include="cats\cat2.jpg" />
-    <Content Include="cats\cat3.jpg" />
     <Content Include="cats\cat4.jpg" />
+    <Content Include="cats\cat3.jpg" />
+    <Content Include="cats\cat1.jpg" />
     <Content Include="cats\cat5.jpg" />
     <Content Include="cats\cat6.jpg" />
+    <Content Include="cats\cat2.jpg" />
     <Content Include="home.aspx" />
     <Content Include="cats.jpg" />
     <Content Include="img\icon.png" />
